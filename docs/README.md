@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/13d048da-0e92-44ed-bfd0-729ba0499551/deploy-status)](https://app.netlify.com/sites/explorereact/deploys)
+
 # Explore React
 
 ## What is this?
