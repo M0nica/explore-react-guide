@@ -21,4 +21,4 @@
 
 - [Week of React](http://www.theweekofreact.com/) by Andrés Cidel
 - [Kent's Newsletter](https://kentcdodds.com/subscribe/) by [Kent C Dodds](https://twitter.com/kentcdodds)
-- [React Js Newsletter](http://reactjsnewsletter.com/) by [Tyler McGinnis](https://twitter.com/tylermcginnis)
+- [React JS Newsletter](http://reactjsnewsletter.com/) by [Tyler McGinnis](https://twitter.com/tylermcginnis)
