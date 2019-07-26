@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "NickFoden",
+      "name": "Nick Foden",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8321838?v=4",
+      "profile": "https://nickis.online/",
+      "contributions": [
+        "content",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "explore-react-guide",
+  "projectOwner": "M0nica",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
