@@ -7,7 +7,21 @@
 
 > This is an ⚠️ under-construction ⚠️ guide and curriculum to learning React JS. The goal is to create a curriculum where anyone in the world can learn how to create their first (or fifth?) React application.
 
-!> This guide is **under-construction**
+## How to Contribute
+
+This project uses <https://docusaurus.io/> under the hood which is a documentation generator comprised of React and Markdown.
+
+1. Git clone this repository
+
+2. `yarn` install dependencies in the root directory
+
+3.`cd website` switch to the website directory
+
+4. `yarn run start` start website server locally 
+
+## Helpful Docusaurus Docs
+- [adding a page](https://docusaurus.io/docs/en/custom-pages) 
+- [updating navigation](https://docusaurus.io/docs/en/navigation)
 
 ## Contributors ✨
 
