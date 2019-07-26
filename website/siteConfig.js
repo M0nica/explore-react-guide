@@ -102,9 +102,11 @@ const siteConfig = {
   // Show documentation's last update time.
   // enableUpdateTime: true,
 
+  editUrl: "https://github.com/m0nica/explore-react-guide/edit/master/docs/",
+
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
-  repoUrl: "https://github.com/m0nica/explore-react-guide/"
+  repoUrl: "https://github.com/m0nica/explore-react-guide"
 };
 
 module.exports = siteConfig;
