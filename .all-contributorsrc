@@ -11,8 +11,11 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/8321838?v=4",
       "profile": "https://nickis.online/",
       "contributions": [
-        "content"
-]},{
+        "content",
+        "code"
+      ]
+    },
+    {
       "login": "M0nica",
       "name": "Monica Powell",
       "avatar_url": "https://avatars0.githubusercontent.com/u/6998954?v=4",
