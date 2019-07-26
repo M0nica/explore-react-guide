@@ -1,4 +1,8 @@
-# Set Up React App
+---
+id: setup
+title: Set Up React Application
+sidebar_label: Set Up React application
+---
 
 ## Prerequisites
 
@@ -17,4 +21,4 @@ Create a new React project with `create-react-app` by running the following comm
 yarn create react-app my-app
 ```
 
-?> _Explore the Create-React-App Docs_ [here](https://facebook.github.io/create-react-app/)
+_Explore the Create-React-App Docs_ [here](https://facebook.github.io/create-react-app/)

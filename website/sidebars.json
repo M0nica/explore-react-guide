@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Welcome": ["start"],
+    "Set Up": ["setup"],
+    "Resources": ["resources"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
