@@ -1,8 +1,8 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "Welcome": ["start"],
+    "Set Up": ["setup"],
+    "Resources": ["resources"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]

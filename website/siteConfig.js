@@ -23,7 +23,7 @@ const users = [
 const siteConfig = {
   title: "Explore React", // Title for your website.
   tagline:
-    "This is a guide to help people learn how to create their first (or fifth) React app",
+    "This is an under-construction guide to help people learn how to create their first (or fifth) ReactJS app",
   url: "https://explorereact.com", // Your website URL
   baseUrl: "/", // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -31,18 +31,18 @@ const siteConfig = {
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: "test-site",
-  organizationName: "facebook",
+  projectName: "explore-react",
+  organizationName: "explore-react",
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    { doc: "doc1", label: "Docs" },
-    { doc: "doc4", label: "API" },
-    { page: "help", label: "Help" },
-    { blog: true, label: "Blog" }
+    { doc: "start", label: "Docs" },
+    // { doc: "doc4", label: "API" },
+    { page: "help", label: "Help" }
+    // { blog: true, label: "Blog" }
   ],
 
   // If you have users set above, you add it here:
@@ -50,12 +50,12 @@ const siteConfig = {
 
   /* path to images for header/footer */
   headerIcon: "img/favicon.ico",
-  footerIcon: "img/favicon.ico",
+  footerIcon: "img/icon-footer.png",
   favicon: "img/favicon.ico",
 
   /* Colors for website */
   colors: {
-    primaryColor: "#7b6c64",
+    primaryColor: "#816e8e",
     secondaryColor: "#564b46"
   },
 
@@ -74,7 +74,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © ${new Date().getFullYear()} Explore React`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
@@ -90,8 +90,8 @@ const siteConfig = {
   cleanUrl: true,
 
   // Open Graph and Twitter card images.
-  ogImage: "img/undraw_online.svg",
-  twitterImage: "img/undraw_tweetstorm.svg"
+  ogImage: "img/icon.svg",
+  twitterImage: "img/icon.svg",
 
   // For sites with a sizable amount of content, set collapsible to true.
   // Expand/collapse the links and subcategories under categories.
@@ -105,7 +105,7 @@ const siteConfig = {
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
-  //   repoUrl: 'https://github.com/facebook/test-site',
+  repoUrl: "https://github.com/m0nica/explore-react-guide/"
 };
 
 module.exports = siteConfig;

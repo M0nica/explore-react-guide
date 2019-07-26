@@ -1,4 +1,8 @@
-# External Resources
+---
+id: resources
+title: External Resources
+sidebar_label: External Resources
+---
 
 - [Official React Docs](https://reactjs.org/)
 - [React Enlightenment](https://www.reactenlightenment.com/)
