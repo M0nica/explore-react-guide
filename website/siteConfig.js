@@ -22,8 +22,7 @@ const users = [
 
 const siteConfig = {
   title: "Explore React", // Title for your website.
-  tagline:
-    "This is an under-construction guide to help people learn how to create their first (or fifth) ReactJS app",
+  tagline: "Learn how to create your first (or fifth) ReactJS app",
   url: "https://explorereact.com", // Your website URL
   baseUrl: "/", // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
