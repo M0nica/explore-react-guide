@@ -12,7 +12,8 @@
       "profile": "https://www.aboutmonica.com",
       "contributions": [
         "doc",
-        "code"
+        "code",
+        "bug"
       ]
     }
   ],
