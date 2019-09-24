@@ -6,18 +6,27 @@ sidebar_label: Set Up React application
 
 ## Prerequisites
 
-1.  Yarn Package Manager
+1. Node & NPM
+
+- check if you have node installed by typing `node -v` in your command line and if you have npm installed by typing `npm -v`
+- If not follow instructions to install the LTS Long Term Support Node version [Node Installation](https://nodejs.org/en/)
+- [npm comes with Node](https://www.npmjs.com/get-npm)
+
+2.  Yarn Package Manager
 
 - This guide will use `yarn` for package management.
 - [Yarn installation for Mac](https://yarnpkg.com/lang/en/docs/install/#mac-stable)
 - [Yarn installation for Windows](https://yarnpkg.com/lang/en/docs/install/#windows-stable)
 
-2.  A modern browser like Chrome or Firefox with React DevTools installed.
+3.  A modern browser like Chrome or Firefox with React DevTools installed.
 
 - [Firefox React DevTools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
 - [Chrome React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
-3. Knowledge of JavaScript and ES6 syntax is helpful
+4. Knowledge of JavaScript and ES6 syntax is really helpful
+
+- [Javascript 30](https://javascript30.com/)
+- [Exercism js](https://exercism.io/tracks/javascript)
 
 ## Create React Application
 

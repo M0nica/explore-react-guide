@@ -15,6 +15,8 @@ sidebar_label: External Resources
 - [The Beginner's Guide to React by Kent C Dodds](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [React Bootcamp by Tyler McGinnis](https://tylermcginnis.com/free-react-bootcamp/)
 - [5 Day React Course by Dave Ceddia](https://daveceddia.com/pure-react-email-course/)
+- [Javascript 30](https://javascript30.com/)
+- [Exercism js](https://exercism.io/tracks/javascript)
 
 ## Podcasts
 
