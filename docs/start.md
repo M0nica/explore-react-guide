@@ -12,7 +12,21 @@ Welcome to the Explore React tutorial! We are excited to have you 🎉. This tut
 
 ## What You Will Learn
 
-TBD
+ <tr>
+    <td align="center"><a href="https://reactjs.org/"><img src="https://miro.medium.com/max/700/1*dLaDL-lSN0iprzmOpmM7zQ.png" width="500px;" alt="ReactJS"/><br /><sub><b>ReactJS</b></sub></a><br /><a href="https://reactjs.org/"></a></td>
+</tr>
+
+React is a JavaScript library created by Facebook primarily used as a tool for building UI components. It can be used as a base in the development of single-page or mobile applications, as it is optimal for fetching rapidly changing data that needs to be recorded.
+
+ReactJS presents graceful solutions to some of front-end programming’s most persistent issues. It’s fast, scalable, flexible, powerful, and has a robust developer community that’s rapidly growing.
+
+After this curriculum you’ll develop a strong understanding of React’s most essential concepts:
+
+- JSX
+- Components
+- Storing information via props and state.
+
+You’ll be able to combine these ideas to build powerful interactive applications.
 
 ## Contributing
 
