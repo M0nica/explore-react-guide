@@ -34,6 +34,16 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "rouzbeh84",
+      "name": "rouzbeh84",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1803843?v=4",
+      "profile": "https://twitter.com/rouzbeh84",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
