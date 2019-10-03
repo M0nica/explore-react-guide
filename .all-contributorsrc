@@ -34,6 +34,15 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "aviral243",
+      "name": "Aviral Gangwar",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44023445?v=4",
+      "profile": "https://github.com/aviral243",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
