@@ -12,11 +12,8 @@
 This project uses <https://docusaurus.io/> under the hood which is a documentation generator comprised of React and Markdown.
 
 1. Git clone this repository
-
-2. `yarn` install dependencies in the root directory
-
-3.`cd website` switch to the website directory
-
+3. `cd website` switch to the website directory
+2. `yarn` to install necessary dependencies 
 4. `yarn run start` start website server locally 
 
 ## Helpful Docusaurus Docs
