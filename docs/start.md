@@ -37,14 +37,18 @@ This tutorial is maintained by [Monica Powell](https://github.com/m0nica) and [R
 ### Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
     <td align="center"><a href="https://nickis.online/"><img src="https://avatars1.githubusercontent.com/u/8321838?v=4" width="100px;" alt="Nick Foden"/><br /><sub><b>Nick Foden</b></sub></a><br /><a href="#content-NickFoden" title="Content">🖋</a> <a href="https://github.com/M0nica/explore-react-guide/commits?author=NickFoden" title="Code">💻</a></td>
     <td align="center"><a href="https://www.aboutmonica.com"><img src="https://avatars0.githubusercontent.com/u/6998954?v=4" width="100px;" alt="Monica Powell"/><br /><sub><b>Monica Powell</b></sub></a><br /><a href="https://github.com/M0nica/explore-react-guide/commits?author=M0nica" title="Documentation">📖</a> <a href="https://github.com/M0nica/explore-react-guide/commits?author=M0nica" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/sylwiavargas"><img src="https://avatars2.githubusercontent.com/u/45401242?v=4" width="100px;" alt="Sylwia Vargas"/><br /><sub><b>Sylwia Vargas</b></sub></a><br /><a href="#content-sylwiavargas" title="Content">🖋</a> <a href="https://github.com/M0nica/explore-react-guide/commits?author=sylwiavargas" title="Code">💻</a></td>
   </tr>
 </table>
 
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ### Inspiration

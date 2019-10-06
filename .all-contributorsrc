@@ -1,6 +1,7 @@
 {
   "files": [
-    "README.md"
+    "README.md",
+    "docs/start.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -49,5 +50,6 @@
   "projectName": "explore-react-guide",
   "projectOwner": "M0nica",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "commitConvention": "none"
 }
