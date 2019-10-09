@@ -17,6 +17,13 @@ sidebar_label: External Resources
 - [5 Day React Course by Dave Ceddia](https://daveceddia.com/pure-react-email-course/)
 - [Javascript 30](https://javascript30.com/)
 - [Exercism js](https://exercism.io/tracks/javascript)
+- [useHooks](https://usehooks.com/)
+- [Lifecyle Methods Guide](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
+- [ReactConf 2018 - React with Hooks Talk](https://www.youtube.com/watch?time_continue=3568&v=dpw9EHDh2bM)
+
+## Tools
+- [Formik: Creating Forms](https://jaredpalmer.com/formik/)
+- [Divjoy: Codebase Generator](https://divjoy.com/)
 
 ## Podcasts
 
